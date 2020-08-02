@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Production Build
+/server/build
+
+# Env Files
+*.env
